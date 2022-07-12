@@ -1,2 +1,0 @@
-# lud
-eggs
